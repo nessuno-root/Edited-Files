@@ -1,0 +1,11 @@
+**APACHE**
+Archivos editados para la configuración de apache
+
+1)000-default.conf   /etc/apache2/sites-available/intranet-zam.conf
+2) /etc/hosts
+3) /etc/apache2/mods-available/mime.conf
+4) /etc/mime.types
+5) htacces /var/www/intranet-zam/delimitado/.htacecess
+6) /etc/apache2/intranet-zam/roles
+7) /var/www/intranet-zam/index.html
+8) /var/intranet-zam/delimitado/index.html
