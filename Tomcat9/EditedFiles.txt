@@ -1,0 +1,6 @@
+ARCHIVOS EDITADOS PARA TOMCAT9
+
+1)/etc/tomcat9/tomcat-users.xml
+2)/usr/share/tomcat9-admin/manager/META-INF/context.xml
+
+

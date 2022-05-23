@@ -1,0 +1,9 @@
+Archivos editados DNS
+#Configuramos la ip estática y utilizamos red nat
+
+1)named.conf.options
+2)Hacer una copia del archivo "/etc/bind/db.local" y añadimos el serial.
+3)/etc/bind/named.conf.default-zones
+
+
+

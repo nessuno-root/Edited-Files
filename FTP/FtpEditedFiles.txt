@@ -1,0 +1,4 @@
+FICHEROS EDITADOS PARA FTP
+1)etc/proftpd/proftpd.conf
+2)/etc/shells
+3)/etc/proftpd/virtuals.conf
